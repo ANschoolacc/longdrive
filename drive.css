@@ -68,7 +68,7 @@ body {
   filter: FlipH;
   -ms-filter: "FlipH";
 
-  animation: driveRight 8s cubic-bezier(0.32, 0, 0.67, 0) infinite,
+  animation: driveRight 5s cubic-bezier(0.6, 0.8, 0.85, 0.6) infinite,
     bounce 2s infinite;
 }
 
